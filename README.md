@@ -1,2 +1,2 @@
-# CalculatorProj
+# CalculatorProject
 First group project
